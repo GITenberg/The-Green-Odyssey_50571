@@ -1,4 +1,8 @@
 _repo: The-Green-Odyssey_50571
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50571-h/images/cover.jpg
 creator:
   author:
     agent_name: Farmer, Philip José
@@ -14,6 +18,8 @@ description: "The Green Odyssey is an American science fiction novel written by 
   \ this book contains no sexual themes, though his next book Flesh returned to these\
   \ motifs. The novel also appeared in the back ground of the first episode of The\
   \ Twilight Zone.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50571#The-Green-Odyssey
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2015-11-29'
 gutenberg_type: Text
